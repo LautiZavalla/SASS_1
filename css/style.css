@@ -27,3 +27,18 @@ main .tarjetas {
 
 footer {
   background-color: #042743; }
+
+.facebook {
+  background-color: #17298F;
+  width: 30px;
+  height: 30px; }
+
+.whatsapp {
+  background-color: #58FF33;
+  width: 30px;
+  height: 30px; }
+
+.instagram {
+  background-color: #921C73;
+  width: 30px;
+  height: 30px; }

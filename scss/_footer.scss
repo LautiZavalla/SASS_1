@@ -1,3 +1,15 @@
 footer{
     background-color: #042743;
 }
+
+.facebook{
+    @include redes($bgFb)
+}
+
+.whatsapp{
+    @include redes($bgWsp)
+}
+
+.instagram{
+    @include redes ($bgIns)
+}
